@@ -20,4 +20,3 @@ int main()
          
     return 0;
 
-(https://img.shields.io/bower/v/editor.md.svg)
